@@ -1,0 +1,16 @@
+2025-04-04 10:25:31.947788 - Received CBT.V508.FILE481.PDS from FILE481.XMI 
+2025-04-04 10:25:31.948492 - Found CKDELMEM.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/CKDELMEM
+2025-04-04 10:25:31.948653 - Found CKIEBGEN.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/CKIEBGEN
+2025-04-04 10:25:31.948787 - Found CKIEBGEO.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/CKIEBGEO
+2025-04-04 10:25:31.948908 - Found CKIEBG06.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/CKIEBG06
+2025-04-04 10:25:31.949052 - Found CKIEBG07.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/CKIEBG07
+2025-04-04 10:25:31.949182 - Found CKLEVEL.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/CKLEVEL
+2025-04-04 10:25:31.949336 - Found CKLOCMEM.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/CKLOCMEM
+2025-04-04 10:25:31.949456 - Found CKRENMEM.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/CKRENMEM
+2025-04-04 10:25:31.949573 - Found CKSTJOB.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/CKSTJOB
+2025-04-04 10:25:31.949686 - Found CKSYMBOL.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/CKSYMBOL
+2025-04-04 10:25:31.949802 - Found CKYAESTA.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/CKYAESTA
+2025-04-04 10:25:31.949917 - Found LIMENLOG.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/LIMENLOG
+2025-04-04 10:25:31.950034 - Found MENSAJE.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/MENSAJE
+2025-04-04 10:25:31.950166 - Found PRESTA4.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/PRESTA4
+2025-04-04 10:25:31.950287 - Found VERDSN.bin (application/octet-stream) in CBT.V508.FILE481.PDS, moved to PDS/VERDSN
